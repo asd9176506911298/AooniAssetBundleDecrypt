@@ -11,3 +11,8 @@ PWmmzQxSjLC8354U5CEWn5U35JaGYZrd
 ```text
 P3Amz3xSjLC8554U5mEWn5U35JaYYZra
 ```
+
+- Ao Oni Onsen
+```text
+P3mmzOxSjLC8354U5mEWn5U35JaYYZrd
+```
